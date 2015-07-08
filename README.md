@@ -6,10 +6,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## Web Design
-
 - [Angular Material](https://material.angularjs.org)
 - [Material Design Lite](http://www.getmdl.io/)
 - [Angular Ripple](https://github.com/nelsoncash/angular-ripple) 
+- [Bootstrap](http://getbootstrap.com/)
+- [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
+- [Angular Loading Bar](https://github.com/chieffancypants/angular-loading-bar)
+- [HTML5 Boilerplate](https://html5boilerplate.com/)
+- [tympanus.net](http://tympanus.net/codrops/)
 
 ## Icons
 - [Brankic1979](http://brankic1979.com/icons/)
