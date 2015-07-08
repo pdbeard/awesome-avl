@@ -17,3 +17,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [3D Slicer](http://www.slicer.org/)
 - [Software Studies Initiative](http://lab.softwarestudies.com/p/software-for-digital-humanities.html)
 - [GIMP Batch Processing](http://www.alessandrofrancesconi.it/projects/bimp/)
+
+## Web 3D
+- [three.js](http://threejs.org/)
+- [X3DOM](http://www.x3dom.org/)
+- [Voodoo.js](http://voodoojs.com/)
+- [potree point cloud viewer](http://potree.org)
+- [Sketchfab](https://sketchfab.com/)
+- [3D Repo](http://3drepo.org/) - 3D version control
