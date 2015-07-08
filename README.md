@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Polycode](http://www.polycode.org/)
 - [NodeBox](https://www.nodebox.net/)
 - [Most Pixels Ever](https://github.com/shiffman/Most-Pixels-Ever-Processing)
+- [libavg](https://www.libavg.de)
 
 ## InfoVis Tools
 - [Tableau](https://www.tableau.com/)
@@ -74,3 +75,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [insight3d](http://insight3d.sourceforge.net/)
 - [potree](http://potree.org)
 - [XB PointStram](https://github.com/asalga/XB-PointStream)
+
+## Multi-touch
+- [Open Exhibits](http://openexhibits.org/)
+- [Kivy](http://kivy.org/#home)
+- [Hammer.js](https://hammerjs.github.io/)
+- [Angular Hammer](https://ryanmullins.github.io/angular-hammer/)
