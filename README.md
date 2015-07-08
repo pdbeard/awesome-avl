@@ -67,10 +67,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Textures.js](https://riccardoscalco.github.io/textures/)
 - [WordCram](http://wordcram.org/)
 
-## Miscellaneous Web Tools
-- [ai2html](http://ai2html.org/)
-- [SVG Crowbar](https://nytimes.github.io/svg-crowbar/)
-
 ## Point Clouds
 - [insight3d](http://insight3d.sourceforge.net/)
 - [potree](http://potree.org)
@@ -81,3 +77,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Kivy](http://kivy.org/#home)
 - [Hammer.js](https://hammerjs.github.io/)
 - [Angular Hammer](https://ryanmullins.github.io/angular-hammer/)
+
+## Data Wrangling
+- [Wrangler](http://vis.stanford.edu/wrangler/)
+- [OpenRefine](http://openrefine.org/)
+- [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/)
+- [Tabula](http://tabula.technology/)
+- [ai2html](http://ai2html.org/)
+- [SVG Crowbar](https://nytimes.github.io/svg-crowbar/)
+- [D3 Deconstructor](https://ucbvislab.github.io/d3-deconstructor/)
+- [Mockaroo](http://www.mockaroo.com/)
+- [import.io Magic](https://magic.import.io/)
