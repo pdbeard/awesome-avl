@@ -88,3 +88,46 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [D3 Deconstructor](https://ucbvislab.github.io/d3-deconstructor/)
 - [Mockaroo](http://www.mockaroo.com/)
 - [import.io Magic](https://magic.import.io/)
+- [Data Science Toolkit](http://www.datasciencetoolkit.org/)
+
+## Maps
+### Geocoding
+- [Batch Geocoding](http://www.findlatitudeandlongitude.com/batch-geocode/)
+- [geopy](https://github.com/geopy/geopy)
+- [freegeoip.net](https://freegeoip.net)
+- [Excel Geocoding Tool](http://excelgeocodingtool.com/)
+- [GPS Visualizer](http://www.gpsvisualizer.com/geocoder/)
+- [Gisgraphy](http://www.gisgraphy.com/)
+- [OpenCage](http://geocoder.opencagedata.com/)
+- [Pelias](https://github.com/pelias/pelias)
+- [MapQuest](http://open.mapquestapi.com/geocoding/)
+
+### Web Maps
+- [OpenHeatMap](http://www.openheatmap.com/)
+- [OpenLayers](http://openlayers.org/)
+- [Polymaps](http://polymaps.org/)
+- [Kartograph](http://kartograph.org/)
+- [Leaflet](http://leafletjs.com/)
+- [GeoJS](https://github.com/OpenGeoscience/geojs)
+ 
+### Tools
+- [QGIS](http://qgis.org/en/site/)
+- [OSGeo](http://www.osgeo.org/)
+- [Mapzen](https://mapzen.com/)
+- [Mapbox](https://www.mapbox.com/)
+- [TileMill](https://www.mapbox.com/tilemill/)
+- [IDV](https://www.unidata.ucar.edu/software/idv/index.html)
+- [VAPOR](http://www.vapor.ucar.edu/)
+- [Panoply](http://www.giss.nasa.gov/tools/panoply/)
+- [G.Projector](http://www.giss.nasa.gov/tools/gprojector/)
+- [Mapshaper](http://mapshaper.org/)
+- [indiemapper](http://indiemapper.com/)
+- [GDAL](http://www.gdal.org/)
+- [GISCube](https://github.com/MBoustani/GISCube)
+- [Binify](https://github.com/kevinschaul/binify)
+- [Tableau Shapefile to Polygon Converter](https://gallery.alteryx.com/#!app/Tableau-Shapefile-to-Polygon-Converter/5296f89120aaf905b8e7fb48)
+
+### Data
+- [World countries](https://mledoze.github.io/countries/)
+- [Natural Earth](http://www.naturalearthdata.com/downloads/)
+- [Natural Earth Vector](https://github.com/nvkelso/natural-earth-vector)
