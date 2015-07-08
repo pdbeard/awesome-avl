@@ -131,3 +131,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [World countries](https://mledoze.github.io/countries/)
 - [Natural Earth](http://www.naturalearthdata.com/downloads/)
 - [Natural Earth Vector](https://github.com/nvkelso/natural-earth-vector)
+
+## Time
+- [TimeFlow](https://github.com/FlowingMedia/TimeFlow)
+- [SIMILE Timeline](http://www.simile-widgets.org/timeline/)
+- [TimelineJS](http://timeline.knightlab.com/)
