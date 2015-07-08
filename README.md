@@ -17,6 +17,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [3D Slicer](http://www.slicer.org/)
 - [Software Studies Initiative](http://lab.softwarestudies.com/p/software-for-digital-humanities.html)
 - [GIMP Batch Processing](http://www.alessandrofrancesconi.it/projects/bimp/)
+- [MeVisLab](http://www.mevislab.de/)
+- [OsiriX](http://www.osirix-viewer.com/)
 
 ## Web 3D
 - [three.js](http://threejs.org/)
