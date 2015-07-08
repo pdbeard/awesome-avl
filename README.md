@@ -22,7 +22,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [three.js](http://threejs.org/)
 - [X3DOM](http://www.x3dom.org/)
 - [Voodoo.js](http://voodoojs.com/)
-- [potree point cloud viewer](http://potree.org)
 - [Sketchfab](https://sketchfab.com/)
 - [3D Repo](http://3drepo.org/) - 3D version control
 
@@ -68,3 +67,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Miscellaneous Web Tools
 - [ai2html](http://ai2html.org/)
 - [SVG Crowbar](https://nytimes.github.io/svg-crowbar/)
+
+## Point Clouds
+- [insight3d](http://insight3d.sourceforge.net/)
+- [potree](http://potree.org)
+- [XB PointStram](https://github.com/asalga/XB-PointStream)
