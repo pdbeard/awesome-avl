@@ -161,3 +161,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Stack](https://mbostock.github.io/stack/)
 - [impress.js](https://bartaz.github.io/impress.js)
 - [reveal.js](http://lab.hakim.se/reveal-js/#/)
+
+## System Control
+- [sabi.js](http://renambot.lakephoto.org/software/sabi-js/)
+- [SAGE2](http://sage2.sagecommons.org/)
+- [SOSGui](https://github.com/DMNSWT/SOSGui)
