@@ -11,6 +11,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Material Design Lite](http://www.getmdl.io/)
 - [Angular Ripple](https://github.com/nelsoncash/angular-ripple) 
 
+## Icons
+- [Brankic1979](http://brankic1979.com/icons/)
+- [The Noun Project](https://thenounproject.com/)
+- [iconmonstr](http://iconmonstr.com/)
+- [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+- [Maki](https://www.mapbox.com/maki/)
+- [Material Design](https://github.com/google/material-design-icons)
+
 ## Image Processing/Analysis
 - [ImageJ](http://imagej.nih.gov/ij/)
 - [Fiji](http://fiji.sc/Fiji)
