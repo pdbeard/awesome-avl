@@ -136,3 +136,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [TimeFlow](https://github.com/FlowingMedia/TimeFlow)
 - [SIMILE Timeline](http://www.simile-widgets.org/timeline/)
 - [TimelineJS](http://timeline.knightlab.com/)
+
+## Color
+- [Map of Science](http://sci.cns.iu.edu/standards.html)
+- [ColorBrewer](http://colorbrewer2.org/)
+- [Chroma.js](https://github.com/gka/chroma.js)
+- [Colorpicker](http://tristen.ca/hcl-picker/)
+- [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
