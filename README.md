@@ -155,3 +155,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Chroma.js](https://github.com/gka/chroma.js)
 - [Colorpicker](http://tristen.ca/hcl-picker/)
 - [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
+
+## Presentation
+- [deck.js](http://imakewebthings.com/deck.js/)
+- [Stack](https://mbostock.github.io/stack/)
+- [impress.js](https://bartaz.github.io/impress.js)
+- [reveal.js](http://lab.hakim.se/reveal-js/#/)
