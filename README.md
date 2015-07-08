@@ -34,3 +34,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sigma](http://sigmajs.org/)
 - [Arbor](http://arborjs.org/)
 - [Linkurious](https://linkurio.us/)
+
+## Creating Coding
+- [Processing](https://processing.org/)
+- [Cinder](http://libcinder.org/)
+- [openFrameworks](http://openframeworks.cc/)
+- [Pure Data](http://puredata.info/)
+- [Max](https://cycling74.com/products/max/)
+- [Polycode](http://www.polycode.org/)
