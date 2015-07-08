@@ -42,3 +42,29 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Pure Data](http://puredata.info/)
 - [Max](https://cycling74.com/products/max/)
 - [Polycode](http://www.polycode.org/)
+- [NodeBox](https://www.nodebox.net/)
+- [Most Pixels Ever](https://github.com/shiffman/Most-Pixels-Ever-Processing)
+
+## InfoVis Tools
+- [Tableau](https://www.tableau.com/)
+- [manyeyes](http://www-969.ibm.com/software/analytics/manyeyes/) - moving to Watson Analytics
+- [Watson Analytics](https://www.ibm.com/analytics/watson-analytics/index.html)
+- [Weave](http://oicweave.org/)
+- [Polychart](https://www.polychart.com/)
+- [Datawrapper](https://datawrapper.de/)
+- [Lyra](https://idl.cs.washington.edu/projects/lyra/) - powered by Vega
+- [Mirador](http://fathom.info/mirador/)
+- [Chartbuilder](https://github.com/Quartz/Chartbuilder)
+- [Palladio](http://palladio.designhumanities.org/#/)
+- [Raw](http://raw.densitydesign.org/)
+
+## InfoVis Libraries
+- [D3](http://d3js.org/)
+- [Polychart.js](https://www.polychartjs.com/)
+- [Vega](https://trifacta.github.io/vega/)
+- [Textures.js](https://riccardoscalco.github.io/textures/)
+- [WordCram](http://wordcram.org/)
+
+## Miscellaneous Web Tools
+- [ai2html](http://ai2html.org/)
+- [SVG Crowbar](https://nytimes.github.io/svg-crowbar/)
