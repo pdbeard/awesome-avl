@@ -94,6 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Data Wrangling
 - [Wrangler](http://vis.stanford.edu/wrangler/)
 - [OpenRefine](http://openrefine.org/)
+- [Trifacta Wrangler](https://www.trifacta.com/trifacta-wrangler/)
 - [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/)
 - [Tabula](http://tabula.technology/)
 - [ai2html](http://ai2html.org/)
