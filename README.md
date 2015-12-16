@@ -72,6 +72,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Chartbuilder](https://github.com/Quartz/Chartbuilder)
 - [Palladio](http://palladio.designhumanities.org/#/)
 - [Raw](http://raw.densitydesign.org/)
+- [PoleStar](https://github.com/vega/polestar)
+- [Voyager](https://github.com/vega/voyager)
 
 ## InfoVis Libraries
 - [D3](http://d3js.org/)
