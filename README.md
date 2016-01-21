@@ -81,6 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Vega](https://trifacta.github.io/vega/)
 - [Textures.js](https://riccardoscalco.github.io/textures/)
 - [WordCram](http://wordcram.org/)
+- [Brunel](http://brunelvis.org/)
 
 ## Point Clouds
 - [insight3d](http://insight3d.sourceforge.net/)
