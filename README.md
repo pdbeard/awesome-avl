@@ -139,6 +139,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Panoply](http://www.giss.nasa.gov/tools/panoply/)
 - [G.Projector](http://www.giss.nasa.gov/tools/gprojector/)
 - [Mapshaper](http://mapshaper.org/)
+- [The Distillery](https://shancarter.github.io/distillery/)
 - [indiemapper](http://indiemapper.com/)
 - [GDAL](http://www.gdal.org/)
 - [GISCube](https://github.com/MBoustani/GISCube)
