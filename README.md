@@ -19,9 +19,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Brankic1979](http://brankic1979.com/icons/)
 - [The Noun Project](https://thenounproject.com/)
 - [iconmonstr](http://iconmonstr.com/)
-- [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
 - [Maki](https://www.mapbox.com/maki/)
 - [Material Design](https://github.com/google/material-design-icons)
+- [Batch](http://adamwhitcroft.com/batch/)
+
+## Font Icons
+- [Meteocons](http://www.alessioatzeni.com/meteocons/)
+- [Font Awesome](https://fortawesome.github.io/Font-Awesome/)
+- [GeoBats](http://www.dafont.com/geobats.font)
+- [StateFace](http://propublica.github.io/stateface/)
+- [Dot Com (cartoony)](http://www.dafont.com/dotcom.font?fpp=50)
+- [Typicons](http://typicons.com/)
+- [OpenIconic](http://useiconic.com/open#icons)
 
 ## Image Processing/Analysis
 - [ImageJ](http://imagej.nih.gov/ij/)
