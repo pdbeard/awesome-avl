@@ -154,7 +154,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [GISCube](https://github.com/MBoustani/GISCube)
 - [Binify](https://github.com/kevinschaul/binify)
 - [Tableau Shapefile to Polygon Converter](https://gallery.alteryx.com/#!app/Tableau-Shapefile-to-Polygon-Converter/5296f89120aaf905b8e7fb48)
-- [geojson.io - convert to/from KML, TopoJSON, GeoJSON, etc](http://geojson.io/)
+- [geojson.io](http://geojson.io/) - convert to/from KML, TopoJSON, GeoJSON, etc
+- [Projection Wizard](http://projectionwizard.org/)
 
 ### Data
 - [World countries](https://mledoze.github.io/countries/)
