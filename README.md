@@ -103,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hammer.js](https://hammerjs.github.io/)
 - [Angular Hammer](https://ryanmullins.github.io/angular-hammer/)
 - [interact.js](http://interactjs.io/)
+- [angular-interact](https://github.com/sarahquigley/angular-interact)
 
 ## Data Wrangling
 - [Wrangler](http://vis.stanford.edu/wrangler/)
