@@ -102,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Kivy](http://kivy.org/#home)
 - [Hammer.js](https://hammerjs.github.io/)
 - [Angular Hammer](https://ryanmullins.github.io/angular-hammer/)
+- [interact.js](http://interactjs.io/)
 
 ## Data Wrangling
 - [Wrangler](http://vis.stanford.edu/wrangler/)
