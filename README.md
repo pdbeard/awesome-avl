@@ -117,6 +117,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mockaroo](http://www.mockaroo.com/)
 - [import.io Magic](https://magic.import.io/)
 - [Data Science Toolkit](http://www.datasciencetoolkit.org/)
+- [Dataproofer](https://github.com/dataproofer/Dataproofer)
 
 ## Maps
 ### Geocoding
