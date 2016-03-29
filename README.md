@@ -83,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Raw](http://raw.densitydesign.org/)
 - [PoleStar](https://github.com/vega/polestar)
 - [Voyager](https://github.com/vega/voyager)
+- [SandDance](https://sanddancehome.azurewebsites.net/)
 
 ## InfoVis Libraries
 - [D3](http://d3js.org/)
