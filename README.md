@@ -14,6 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Angular Loading Bar](https://github.com/chieffancypants/angular-loading-bar)
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
 - [tympanus.net](http://tympanus.net/codrops/)
+- [mo.js](https://mojs.io)
 
 ## Icons
 - [Brankic1979](http://brankic1979.com/icons/)
