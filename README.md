@@ -15,6 +15,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
 - [tympanus.net](http://tympanus.net/codrops/)
 - [mo.js](https://mojs.io)
+- [ColorBlind Filters](http://colorfilter.wickline.org)
+- [Color Contrast Check](http://www.snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333)
+
 
 ## Icons
 - [Brankic1979](http://brankic1979.com/icons/)
