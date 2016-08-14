@@ -52,6 +52,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sketchfab](https://sketchfab.com/)
 - [3D Repo](http://3drepo.org/) - 3D version control
 - [WebGL Earth](http://www.webglearth.org/)
+- [A-Frame](https://aframe.io/)
+- [Cesium](https://cesiumjs.org/)
 
 ## Graphs
 - [Gephi](https://gephi.github.io/)
@@ -91,9 +93,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## InfoVis Libraries
 - [D3](http://d3js.org/)
+ - [d3-starterkit](https://github.com/1wheel/d3-starterkit)
+ - [d3-legend](http://d3-legend.susielu.com/)
 - [Polychart.js](https://www.polychartjs.com/)
 - [Vega](https://trifacta.github.io/vega/)
 - [Textures.js](https://riccardoscalco.github.io/textures/)
+- [Pattern fills](http://iros.github.io/patternfills/)
 - [WordCram](http://wordcram.org/)
 - [Brunel](http://brunelvis.org/)
 
