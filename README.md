@@ -74,6 +74,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NodeBox](https://www.nodebox.net/)
 - [Most Pixels Ever](https://github.com/shiffman/Most-Pixels-Ever-Processing)
 - [libavg](https://www.libavg.de)
+- [Matter.js](http://brm.io/matter-js/) - 2D physics
 
 ## InfoVis Tools
 - [Tableau](https://www.tableau.com/)
