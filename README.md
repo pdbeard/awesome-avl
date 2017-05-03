@@ -188,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Chroma.js](https://github.com/gka/chroma.js)
 - [Colorpicker](http://tristen.ca/hcl-picker/)
 - [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
+- [Colorgorical](http://vrl.cs.brown.edu/color)
 
 ## Presentation
 - [deck.js](http://imakewebthings.com/deck.js/)
