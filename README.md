@@ -9,7 +9,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Angular Material](https://material.angularjs.org)
 - [Material Design Lite](http://www.getmdl.io/)
 - [Angular Ripple](https://github.com/nelsoncash/angular-ripple) 
-- [Bootstrap](http://getbootstrap.com/)
 - [UI Bootstrap](https://angular-ui.github.io/bootstrap/)
 - [Angular Loading Bar](https://github.com/chieffancypants/angular-loading-bar)
 - [HTML5 Boilerplate](https://html5boilerplate.com/)
@@ -18,6 +17,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ColorBlind Filters](http://colorfilter.wickline.org)
 - [Color Contrast Check](http://www.snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333)
 - [You Don't Need Javascript](https://github.com/NamPNQ/You-Dont-Need-Javascript)
+
+###CSS Frameworks
+- [Bootstrap](http://getbootstrap.com/)
+- [Bulma](http://bulma.io/)
+- [Milligram](http://milligram.io/)
+- [Semantic UI](https://semantic-ui.com/)
+
+###Exporting tools 
+- [Cordova (mobile devices)](https://cordova.apache.org/)
+- [Electron](https://electron.atom.io/)
+- [NW.js](https://nwjs.io/)
 
 ## Icons
 - [Brankic1979](http://brankic1979.com/icons/)
