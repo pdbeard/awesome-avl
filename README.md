@@ -199,6 +199,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Colorpicker](http://tristen.ca/hcl-picker/)
 - [i want hue](http://tools.medialab.sciences-po.fr/iwanthue/)
 - [Colorgorical](http://vrl.cs.brown.edu/color)
+- [Chromatism](https://github.com/toish/chromatism)
 
 ## Presentation
 - [deck.js](http://imakewebthings.com/deck.js/)
