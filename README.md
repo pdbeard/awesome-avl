@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WebGL Earth](http://www.webglearth.org/)
 - [A-Frame](https://aframe.io/)
 - [Cesium](https://cesiumjs.org/)
+- [IdeaSpaceVR](https://www.ideaspacevr.org/) - WebVR CMS
 
 ## Graphs
 - [Gephi](https://gephi.github.io/)
