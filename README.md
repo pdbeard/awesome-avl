@@ -36,6 +36,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Maki](https://www.mapbox.com/maki/)
 - [Material Design](https://github.com/google/material-design-icons)
 - [Batch](http://adamwhitcroft.com/batch/)
+- [IU Lockups and Logos](https://iu.app.box.com/s/myuipwhlt4y8ljiaburu8q9u0nqtg5iq/folder/11475714018)
 
 ## Font Icons
 - [Meteocons](http://www.alessioatzeni.com/meteocons/)
