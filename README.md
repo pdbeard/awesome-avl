@@ -66,6 +66,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [A-Frame](https://aframe.io/)
 - [Cesium](https://cesiumjs.org/)
 - [IdeaSpaceVR](https://www.ideaspacevr.org/) - WebVR CMS
+- [Book of Shaders](https://thebookofshaders.com/)
 
 ## Graphs
 - [Gephi](https://gephi.github.io/)
