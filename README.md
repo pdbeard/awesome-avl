@@ -5,6 +5,8 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
+- []()
+
 ## Web Design
 - [Angular Material](https://material.angularjs.org)
 - [Material Design Lite](http://www.getmdl.io/)
@@ -18,16 +20,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Color Contrast Check](http://www.snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333)
 - [You Don't Need Javascript](https://github.com/NamPNQ/You-Dont-Need-Javascript)
 
-###CSS Frameworks
+### CSS Frameworks
 - [Bootstrap](http://getbootstrap.com/)
 - [Bulma](http://bulma.io/)
 - [Milligram](http://milligram.io/)
 - [Semantic UI](https://semantic-ui.com/)
 
-###Exporting tools 
+### Exporting tools 
 - [Cordova (mobile devices)](https://cordova.apache.org/)
 - [Electron](https://electron.atom.io/)
 - [NW.js](https://nwjs.io/)
+
+### Placeholder Content
+- [Adorable Avatars](http://avatars.adorable.io/#demo) - Avatar Images
+- [Robo Hash](https://robohash.org/) - Avatar Images
+- [Unsplash it](https://unsplash.it/) - Photo Placeholder with nice
+  custom options
+- [Random User](https://randomuser.me/) - Random user 
+- [JSON](http://jsonplaceholder.typicode.com/) - REST API Testing 
 
 ## Icons
 - [Brankic1979](http://brankic1979.com/icons/)
@@ -46,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Dot Com (cartoony)](http://www.dafont.com/dotcom.font?fpp=50)
 - [Typicons](http://typicons.com/)
 - [OpenIconic](http://useiconic.com/open#icons)
+- [Feather Icons](https://feathericons.com/)
 
 ## Image Processing/Analysis
 - [ImageJ](http://imagej.nih.gov/ij/)
